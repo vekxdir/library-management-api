@@ -1,18 +1,16 @@
 # 📚 Book Management API (Spring Boot)
 
-A simple CRUD REST API for managing books — built with Spring Boot, Hibernate, and MySQL.
+A simple CRUD REST API for managing books — built with Spring Boot
 
 ## 🚀 Features
 - Create, Read, Update, Delete Books
 - Validation (e.g., Published date cannot be in the future)
 - Exception Handling
-- DTO + Entity Mapping
+- DTO 
 
 ## 🛠️ Tech Stack
 - Java 17
 - Spring Boot
-- Hibernate / JPA
-- MySQL
 - Maven
 
 ## ⚙️ Setup
