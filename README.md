@@ -24,7 +24,9 @@ A simple CRUD REST API for managing books — built with Spring Boot, Hibernate,
 3. Run the app:
      mvn spring-boot:run
 
-📬 Example JSON (POST /books)
+## 📬 Example JSON (POST /books)
+
+```json
 {
   "title": "Clean Code",
   "author": "Robert C. Martin",
@@ -32,3 +34,4 @@ A simple CRUD REST API for managing books — built with Spring Boot, Hibernate,
   "publishedDate": "2008-08-01",
   "availableCopies": 5
 }
+
